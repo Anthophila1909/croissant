@@ -13,4 +13,13 @@ p {
 
 .links a {
   padding: 20px;
+  color: green;
+}
+
+.croissant-photo {
+  display: block;
+  margin: 0 auto;
+  max-width: 500px;
+  border-radius: 8px;
+  margin-bottom: 25px;
 }
